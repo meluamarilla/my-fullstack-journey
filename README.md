@@ -1,1 +1,1 @@
-# my-fullstack-journey
+Proyecto fullstack Java + Next.js
